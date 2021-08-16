@@ -1,6 +1,6 @@
-package jo.secondstep.apps;
+package jo.secondstep.singleton.apps;
 
-import jo.secondstep.osmanagers.NotificationManager;
+import jo.secondstep.singleton.osmanagers.NotificationManager;
 
 public class RingtonesApp {
 	

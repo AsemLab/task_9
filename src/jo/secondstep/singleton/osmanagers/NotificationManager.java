@@ -1,4 +1,4 @@
-package jo.secondstep.osmanagers;
+package jo.secondstep.singleton.osmanagers;
 
 public class NotificationManager {
 
