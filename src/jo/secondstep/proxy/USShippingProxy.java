@@ -1,10 +1,10 @@
 package jo.secondstep.proxy;
 
-public class SippingServiceProxy implements ShippingService {
+public class USShippingProxy implements ShippingService {
 
 	private ShippingService realShippingService;
 
-	public SippingServiceProxy(ShippingService realShippingService) {
+	public USShippingProxy(ShippingService realShippingService) {
 		this.realShippingService = realShippingService;
 	}
 
